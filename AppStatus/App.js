@@ -379,11 +379,3 @@ const styles = StyleSheet.create({
     color: '#003366',
   }
 });
-```eof
-
-### ¿Cómo funciona ahora?
-1. **Login:** Al abrir la app, verás la pantalla de inicio de sesión. Las credenciales de prueba son **Usuario:** `admin` y **Contraseña:** `1234`.
-2. **Pokédex Principal:** Una vez dentro, verás el código que hizo el profesor, pero con una mejora: debajo del nombre del Pokémon hay un botón que dice **"☆ Guardar"**. Si lo presionas, cambia a **"⭐ Guardado"** y se añade a tu lista.
-3. **Favoritos:** En la parte superior derecha hay un botón amarillo para "Ver Favoritos". Al tocarlo, se oculta la Pokédex y te muestra una lista con las fotos y nombres de los Pokémon que guardaste. 
-
-Solo guarda este archivo, ve a la consola de Expo, presiona **`r`** y pruébalo en tu celular. ¡Es una app muchísimo más robusta y completa ahora!
